@@ -1,6 +1,8 @@
 # Adopets API
 
-Instruções para usar a API.
+- Instruções para usar a API.
+- A aplicação Frontend pode ser visualizada [neste link](https://stackblitz.com/edit/react-ad28nx).
+- O usuário inicial pra teste é fulano@email.com, senha 123.
 
 ## Registro
 
